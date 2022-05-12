@@ -32,6 +32,8 @@
     <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.motorola.cn.calculator" name="Calculator" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraGood" name="Camera" />
+    <icon drawable="@drawable/camera" package="app.grapheneos.camera.play" name="Camera" />
     <icon drawable="@drawable/camera" package="com.GoogleCamera.mwp83" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC.not.stable" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.camera" name="Camera" />
@@ -56,6 +58,7 @@
     <icon drawable="@drawable/camera" package="org.codeaurora.snapcam" name="Camera" />
     <icon drawable="@drawable/camera" package="org.lineageos.snap" name="Camera" />
     <icon drawable="@drawable/camera" package="com.sonyericsson.android.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.android.arn" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraLMC" name="Camera" />
     <icon drawable="@drawable/camera" package="com.sonyericsson.android.camera.CameraApplication" name="Camera" />
     <icon drawable="@drawable/catogram" package="org.nift4.catox" name="Catogram" />
@@ -66,6 +69,7 @@
     <icon drawable="@drawable/contacts" package="com.android.contacts" name="Contacts" />
     <icon drawable="@drawable/contacts" package="com.google.android.contacts" name="Contacts" />
     <icon drawable="@drawable/contacts" package="com.samsung.android.app.contacts" name="Contacts" />
+    <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts.pro" name="Contacts" />
     <icon drawable="@drawable/corona_tracing" package="de.corona.tracing" name="Corona Tracing" />
     <icon drawable="@drawable/corona_warn" package="de.rki.coronawarnapp" name="Corona-Warn" />
     <icon drawable="@drawable/coronacheck" package="nl.rijksoverheid.ctr.holder" name="CoronaCheck" />
@@ -86,6 +90,7 @@
     <icon drawable="@drawable/dialer" package="com.samsung.android.dialer" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.sh.smart.caller" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.truecaller" name="Dialer" />
+    <icon drawable="@drawable/dialer" package="com.null.cb" name="acr" />
     <icon drawable="@drawable/digital_wellbeing" package="com.google.android.apps.wellbeing" name="Digital Wellbeing" />
     <icon drawable="@drawable/doodle" package="xyz.zedler.patrick.doodle" name="Doodle" />
     <icon drawable="@drawable/discord" package="com.aliucord" name="Aliucord" />
@@ -327,6 +332,7 @@
     <icon drawable="@drawable/yeelight" package="com.yeelight.cherry" name="Yeelight" />
     <icon drawable="@drawable/ymusic" package="com.kapp.youtube.final" name="YMusic" />
     <icon drawable="@drawable/youtube" package="com.google.android.youtube" name="YouTube" />
+    <icon drawable="@drawable/youtube" package="com.gold.android.youtube" name="YouTube" />
     <icon drawable="@drawable/youtube_music" package="com.google.android.apps.youtube.music" name="YouTube Music" />
     <icon drawable="@drawable/youtube_tv" package="com.google.android.apps.youtube.unplugged" name="YouTube TV" />
     <icon drawable="@drawable/youtube" package="com.vanced.android.youtube" name="YouTube Vanced" />
@@ -367,6 +373,7 @@
     <icon drawable="@drawable/camera" package="com.agc.cam" name="Camera" />
     <icon drawable="@drawable/camera" package="com.GoogleCamera.Burial31" name="Camera" />
     <icon drawable="@drawable/camera" package="com.motorola.camera3" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.google.android.ymgc83252" name="Camera" />
     <icon drawable="@drawable/nekogram_x" package="nekox.messenger" name="Nekogram X" />
     <icon drawable="@drawable/spark_email" package="com.readdle.spark" name="Spark Email" />
     <icon drawable="@drawable/discord" package="com.discord" name="Discord" />
@@ -375,7 +382,9 @@
     <icon drawable="@drawable/microsoft_edge" package="com.microsoft.emmx" name="Microsoft Edge" />
     <icon drawable="@drawable/microsoft_edge" package="com.microsoft.emmx.beta" name="Microsoft Edge" />
     <icon drawable="@drawable/microsoft_edge" package="com.microsoft.emmx.dev" name="Microsoft Edge" />
+    <icon drawable="@drawable/microsoft_edge" package="com.microsoft.emmx.canary" name="Microsoft Edge" />
     <icon drawable="@drawable/dialer" package="com.asus.dialer" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.jacopomii.googledialermod" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.candykk.android.dialer" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.candykk.android.dialer2" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.sonymobile.android.dialer" name="Phone" />
@@ -400,10 +409,13 @@
     <icon drawable="@drawable/wechat" package="com.tencent.mm" name="wechat" />
     <icon drawable="@drawable/wechat" package="com.oasisfeng.nevo.agents.v1.wechat" name="微信N"/>
     <icon drawable="@drawable/bilibili" package="com.bilibili.app.in" name="bilibili" />
+    <icon drawable="@drawable/bilibili" package="com.bilibili.bilithings" name="bilibili" />
     <icon drawable="@drawable/zhihu" package="com.zhihu.android" name="zhihu" />
     <icon drawable="@drawable/magisk" package="ai.lqdxaszd.clbbyj" name="magisk" />
     <icon drawable="@drawable/wangyiyun" package="com.netease.cloudmusic" name="wangyiyun" />
     <icon drawable="@drawable/cool" package="com.coolapk.market" name="cool" />
+    <icon drawable="@drawable/cool" package="best.galaxy.en" name="cool" />
+    <icon drawable="@drawable/cool" package="com.coolapk.market.vn" name="cool" />
     <icon drawable="@drawable/thanox" package="github.tornaco.android.thanos.pro" name="thanox Pro" />
     <icon drawable="@drawable/thanox" package="github.tornaco.android.thanos" name="thanox" />
     <icon drawable="@drawable/gaode" package="com.autonavi.minimap" name="gaode" />
@@ -501,6 +513,7 @@
     <icon drawable="@drawable/smzh" package="com.activision.callofduty.shooter" name="smzhgj" />
     <icon drawable="@drawable/gjzs" package="Han.GJZS" name="gjzsh" />
     <icon drawable="@drawable/hupu" package="com.hupu.games" name="hupu" />
+    <icon drawable="@drawable/hupu" package="com.hupu.gp" name="hupu" />
     <icon drawable="@drawable/lvse" package="com.oasisfeng.greenify" name="lvse" />
     <icon drawable="@drawable/lvse" package="com.oasisfeng.greenify.pro" name="lvsepro" />
     <icon drawable="@drawable/migu" package="tv.icntv.migu" name="migu" />
@@ -528,6 +541,7 @@
     <icon drawable="@drawable/xhs" package="com.xingin.xhs" name="xhs" />
     <icon drawable="@drawable/xmyd" package="com.xiaomi.hm.health" name="xmyd" />
     <icon drawable="@drawable/xmyd" package="com.mi.health" name="小米运动" />
+    <icon drawable="@drawable/ic_com_xiaomi_wearable" package="com.xiaomi.wearable" name="小米手表" />
     <icon drawable="@drawable/yjtq" package="net.oneplus.weather" name="yjtq" />
     <icon drawable="@drawable/ysy" package="com.videogo" name="ysy" />
     <icon drawable="@drawable/ysy" package="com.ezviz" name="ysy" />
@@ -548,6 +562,7 @@
     <icon drawable="@drawable/cmcc" package="com.sh.cm.shydhn" name="cmcc" />
     <icon drawable="@drawable/cmcc" package="com.bmcc.ms.ui" name="cmcc" />
     <icon drawable="@drawable/cmcc" package="com.sitech.sx.wxcs" name="cmcc" />
+    <icon drawable="@drawable/cmcc" package="qzyd.speed.nethelper" name="cmcc" />
     <icon drawable="@drawable/itzj" package="com.ruanmei.ithome" name="itzj" />
     <icon drawable="@drawable/lsp" package="org.lsposed.manager" name="lsp" />
     <icon drawable="@drawable/office" package="com.microsoft.office.officehubrow" name="office" />
@@ -568,6 +583,7 @@
     <icon drawable="@drawable/gh" package="com.icbc" name="icbc" />
     <icon drawable="@drawable/txhy" package="com.tencent.wemeet.app" name="txhy" />
     <icon drawable="@drawable/jyyy" package="com.salt.music" name="jyyy" />
+    <icon drawable="@drawable/jyyy" package="com.salt.music.lite" name="jyyy" />
     <icon drawable="@drawable/xmyy" package="com.wh.music" name="xmyy" />
     <icon drawable="@drawable/retro" package="code.name.monkey.retromusic" name="retro" />
     <icon drawable="@drawable/smbb" package="com.tencent.dm" name="smbb" />
@@ -777,6 +793,8 @@
     <icon drawable="@drawable/ic_com_sec_android_app_clockpackage" package="com.sec.android.app.clockpackage" name="时钟  "/>
     <icon drawable="@drawable/ic_com_sec_android_app_clockpackage" package="com.motorola.cn.deskclock" name="时钟  "/>
     <icon drawable="@drawable/ic_com_samsung_android_calendar" package="com.samsung.android.calendar" name="日历"/>
+    <icon drawable="@drawable/ic_com_samsung_android_calendar" package="cn.rygel.gd" name="日历"/>
+    <icon drawable="@drawable/ic_com_samsung_android_calendar" package="com.sonymobile.calenda" name="日历"/>
     <icon drawable="@drawable/com_samsung_accessory_berrymgr" package="com.samsung.accessory.berrymgr" name="三星智能穿戴"/>
     <icon drawable="@drawable/ic_com_samsung_android_app_reminder" package="com.samsung.android.app.reminder" name="提醒"/>
     <icon drawable="@drawable/ic_com_sec_android_daemonapp" package="com.sec.android.daemonapp" name="天气 "/>
@@ -876,6 +894,7 @@
     <icon drawable="@drawable/ic_com_zui_calendar" package="com.zui.calendar" name="日历"/>
     <icon drawable="@drawable/ic_com_oneplus_sound_tuner" package="com.oneplus.sound.tuner" name="杜比全景声"/>
     <icon drawable="@drawable/ic_com_oneplus_sound_tuner" package="com.dolby.ds1appUI" name="杜比全景声"/>
+    <icon drawable="@drawable/ic_com_oneplus_sound_tuner" package="com.dolby.daxappui" name="杜比全景声"/>
     <icon drawable="@drawable/ic_com_smartisan_calendar" package="com.smartisan.calendar" name="锤子日历"/>
     <icon drawable="@drawable/ic_com_heytap_health" package="com.heytap.health" name="欢太健康"/>
     <icon drawable="@drawable/ic_com_oneplus_bbs" package="com.oneplus.bbs" name="一加社区"/>
@@ -918,4 +937,17 @@
     <icon drawable="@drawable/ic_com_tencent_karaoke" package="com.tencent.karaoke" name="全民K歌"/>
     <icon drawable="@array/grayscale_calendar_icons" package="com.google.android.calendar" />
     <icon drawable="@drawable/ic_me_mapleaf_calendar" package="me.mapleaf.calendar" name="一叶日历"/>
+    <icon drawable="@drawable/com_sonyericsson_album" package="com.sonyericsson.album" name="sony相册"/>
+    <icon drawable="@drawable/ic_com_ss_android_lark" package="com.ss.android.lark" name="飞书"/>
+    <icon drawable="@drawable/ic_cc_forestapp" package="cc.forestapp" name="Forest 专注森林"/>
+    <icon drawable="@drawable/ic_com_kwai_m2u_gp" package="com.kwai.m2u.gp" name="一甜相机"/>
+    <icon drawable="@drawable/ic_com_xhey_xcamera" package="com.xhey.xcamera" name="今日水印相机"/>
+    <icon drawable="@drawable/ic_com_microsoft_translator" package="com.microsoft.translator" name="翻译"/>
+    <icon drawable="@drawable/ic_net_evecom_android_mztapp" package="net.evecom.android.mztapp" name="闽政通"/>
+    <icon drawable="@drawable/ic_com_android_email" package="com.android.email" name="电子邮件"/>
+    <icon drawable="@drawable/ssr" package="com.bige0.shadowsocksr" name="SSR"/>
+    <icon drawable="@drawable/ssr" package="in.zhaoj.shadowsocksrr" name="SSR"/>
+    <icon drawable="@drawable/ssr" package="in.zhaoj.shadowsocksr" name="SSR"/>
+    <icon drawable="@drawable/ssr" package="com.github.shadowsocks" name="shadowsocks"/>
+    <icon drawable="@drawable/ic_com_hiby_music" package="com.hiby.music" name="海贝音乐"/>
 </icons>
