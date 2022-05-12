@@ -1,0 +1,21 @@
+<vector android:height="24dp" android:viewportHeight="240"
+    android:viewportWidth="240" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillAlpha="0.8" android:fillColor="#000000"
+        android:fillType="nonZero"
+        android:pathData="M44.149,54.83C90.632,0.739 176.831,11.414 209.047,74.621L131.607,74.621C117.657,74.621 108.649,74.304 98.89,79.438C87.424,85.479 78.774,96.671 75.749,109.812L44.149,54.838L44.149,54.83Z"
+        android:strokeColor="#00000000" android:strokeWidth="1"/>
+    <path android:fillColor="#000000" android:fillType="nonZero"
+        android:pathData="M86.732,119.995C86.732,138.329 101.64,153.245 119.965,153.245C138.298,153.245 153.198,138.329 153.198,119.995C153.198,101.662 138.29,86.746 119.965,86.746C101.632,86.746 86.732,101.662 86.732,119.995Z"
+        android:strokeColor="#00000000" android:strokeWidth="1"/>
+    <path android:fillAlpha="0.4" android:fillColor="#000000"
+        android:fillType="nonZero"
+        android:pathData="M36.216,65.405C41.038,73.808 48.407,86.649 55.926,99.736L57.465,102.416C66.534,118.197 75.583,133.923 80.424,142.27C85.098,150.339 91.281,156.193 98.192,160.001L28.441,160.002C15.66,130.626 16.731,95.264 36.216,65.405Z"
+        android:strokeColor="#00000000" android:strokeWidth="1"/>
+    <path android:fillAlpha="0.6" android:fillColor="#000000"
+        android:fillType="nonZero"
+        android:pathData="M214.247,86.738C223.184,112.097 221.267,137.922 211.548,160.002L149.106,160C153.404,152.704 157.004,146.569 159.231,142.729C169.781,124.383 166.301,101.187 150.831,86.746L150.831,86.746L150.831,86.738Z"
+        android:strokeColor="#00000000" android:strokeWidth="1"/>
+    <path android:fillColor="#000000" android:fillType="evenOdd"
+        android:pathData="M211.679,160.001C196.247,195.319 161.006,220 120,220C78.994,220 43.753,195.319 28.321,160.001L211.679,160.001ZM101.25,170L92.55,170L92.55,205L101.25,205C106.8,205 109.45,202 109.45,196.35L109.45,178.65C109.45,173 106.8,170 101.25,170ZM127.95,170L112.95,170L112.95,205L127.95,205L127.95,200L118.45,200L118.45,189.75L126,189.75L126,184.75L118.45,184.75L118.45,175L127.95,175L127.95,170ZM135.45,170L129.9,170L135.3,205L143.5,205L148.9,170L143.85,170L139.65,198.55L135.45,170ZM101.15,175C102.9,175 103.95,175.85 103.95,178.4L103.95,196.6C103.95,199.15 102.9,200 101.15,200L98.05,200L98.05,175L101.15,175Z"
+        android:strokeColor="#00000000" android:strokeWidth="1"/>
+</vector>
