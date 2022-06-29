@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">cayicons</string>
-    <string name="search_bar_hint">Search %d Icons</string>
+    <string name="search_bar_hint">搜索（没卵用） %d 图标</string>
     <string name="acknowledgements">Acknowledgements</string>
-    <string name="about">About</string>
-    <string name="version_x">Version %s</string>
-    <string name="core_contributors">Core Contributors</string>
-    <string name="see_all_contributors">See All Contributors</string>
+    <string name="about">关于</string>
+    <string name="version_x">版本 %s</string>
+    <string name="core_contributors">图标作者</string>
+    <string name="see_all_contributors">lawnicons所有贡献者</string>
     <string name="contributors">Contributors</string>
-    <string name="special_thanks">Special Thanks</string>
-    <string name="special_thanks_icon">For inspiring the app icon.</string>
+    <string name="special_thanks">感谢</string>
+    <string name="special_thanks_icon">项目来源lawnicons</string>
     <string name="special_thanks_name">For naming the app.</string>
 </resources>

@@ -8,9 +8,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Lawnicons"
-        android:name=".LawniconsApplication">
+        android:name="app.lawnchair.cayicons.LawniconsApplication">
         <activity
-            android:name=".MainActivity"
+            android:name="app.lawnchair.cayicons.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.Lawnicons">
             <intent-filter>

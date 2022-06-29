@@ -1,4 +1,4 @@
-package app.lawnchair.lawnicons
+package app.lawnchair.cayicons
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

@@ -29,31 +29,19 @@ import app.lawnchair.lawnicons.util.appIcon
 
 private val coreContributors = listOf(
     Contributor(
-        name = "paphonb",
-        username = "paphonb",
-        photoUrl = "https://avatars.githubusercontent.com/u/8080853",
-        socialUrl = "https://twitter.com/paphonb",
-    ),
-    Contributor(
-        name = "Patryk Michalik",
-        username = "patrykmichalik",
-        photoUrl = "https://raw.githubusercontent.com/patrykmichalik/brand/master/logo-on-indigo.png",
-        socialUrl = "https://patrykmichalik.com",
+        name = "caycai",
+        username = "caiyi0577",
+        photoUrl = "https://avatars.githubusercontent.com/u/49513380?v=4",
+        socialUrl = "https://github.com/caiyi0577/cayicons",
     ),
 )
 
 private val specialThanks = listOf(
     Contributor(
-        name = "Eatos",
-        photoUrl = "https://avatars.githubusercontent.com/u/52837599",
-        socialUrl = "https://twitter.com/eatosapps",
+        name = "Lawnchair",
+        photoUrl = "https://avatars.githubusercontent.com/u/34144436?s=200&v=4",
+        socialUrl = "https://github.com/LawnchairLauncher/lawnicons",
         descriptionRes = R.string.special_thanks_icon,
-    ),
-    Contributor(
-        name = "Rik Koedoot",
-        photoUrl = "https://avatars.githubusercontent.com/u/29402532",
-        username = "rikkoedoot",
-        descriptionRes = R.string.special_thanks_name,
     ),
 )
 
