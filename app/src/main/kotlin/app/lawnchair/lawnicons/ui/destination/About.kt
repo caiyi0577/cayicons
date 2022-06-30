@@ -32,13 +32,13 @@ private val coreContributors = listOf(
         name = "caycai",
         username = "caiyi0577",
         photoUrl = "https://avatars.githubusercontent.com/u/49513380?v=4",
-        socialUrl = "https://github.com/caiyi0577/cayicons",
+        socialUrl = "https://github.com/caiyi0577",
     ),
 )
 
 private val specialThanks = listOf(
     Contributor(
-        name = "Lawnchair",
+        name = "lawnicons",
         photoUrl = "https://avatars.githubusercontent.com/u/34144436?s=200&v=4",
         socialUrl = "https://github.com/LawnchairLauncher/lawnicons",
         descriptionRes = R.string.special_thanks_icon,

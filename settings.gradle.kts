@@ -15,5 +15,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lawnicons"
+rootProject.name = "cayicons"
 include(":app")

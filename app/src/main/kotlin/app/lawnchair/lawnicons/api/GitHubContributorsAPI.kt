@@ -5,6 +5,6 @@ import retrofit2.http.GET
 
 interface GitHubContributorsAPI {
 
-    @GET("repos/LawnchairLauncher/lawnicons/contributors")
+    @GET("repos/LawnchairLauncher/cayicons/contributors")
     suspend fun getContributors(): List<GitHubContributor>
 }
