@@ -61,6 +61,7 @@
     <icon drawable="@drawable/camera" package="com.android.arn" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraLMC" name="Camera" />
     <icon drawable="@drawable/camera" package="com.sonyericsson.android.camera.CameraApplication" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.ngcam.camera" name="Camera" />
     <icon drawable="@drawable/catogram" package="org.nift4.catox" name="Catogram" />
     <icon drawable="@drawable/catogram" package="ua.itaysonlab.messenger" name="Catogram" />
     <icon drawable="@drawable/citymapper" package="com.citymapper.app.release" name="Citymapper" />
@@ -74,6 +75,7 @@
     <icon drawable="@drawable/corona_warn" package="de.rki.coronawarnapp" name="Corona-Warn" />
     <icon drawable="@drawable/coronacheck" package="nl.rijksoverheid.ctr.holder" name="CoronaCheck" />
     <icon drawable="@drawable/coronacheck_scanner" package="nl.rijksoverheid.ctr.verifier" name="Scanner" />
+    <icon drawable="@drawable/coronacheck_scanner" package="com.xiaomi.scanner" name="xiaomi scanner" />
     <icon drawable="@drawable/covpass" package="de.rki.covpass.app" name="CovPass" />
     <icon drawable="@drawable/cpu_z" package="com.cpuid.cpu_z" name="CPU Z" />
     <icon drawable="@drawable/darq" package="com.kieronquinn.app.darq" name="DarQ" />
@@ -374,6 +376,7 @@
     <icon drawable="@drawable/camera" package="com.GoogleCamera.Burial31" name="Camera" />
     <icon drawable="@drawable/camera" package="com.motorola.camera3" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.ymgc83252" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEngR13F2" name="Camera" />
     <icon drawable="@drawable/nekogram_x" package="nekox.messenger" name="Nekogram X" />
     <icon drawable="@drawable/spark_email" package="com.readdle.spark" name="Spark Email" />
     <icon drawable="@drawable/discord" package="com.discord" name="Discord" />
@@ -426,6 +429,7 @@
     <icon drawable="@drawable/tieba" package="com.baidu.tieba" name="tieba" />
     <icon drawable="@drawable/tieba" package="com.huanchengfly.tieba.post" name="tieba" />
     <icon drawable="@drawable/baiduyun" package="com.baidu.netdisk" name="baiduyun" />
+    <icon drawable="@drawable/baiduyun" package="com.baidu.netdisk.youth" name="baiduyun" />
     <icon drawable="@drawable/bijian" package="com.bilibili.studio" name="bijian" />
     <icon drawable="@drawable/dazhong" package="com.dianping.v1" name="dazhong" />
     <icon drawable="@drawable/didi" package="com.sdu.didi.psnger" name="didi" />
@@ -791,6 +795,7 @@
     <icon drawable="@drawable/ic_com_paypal_android_p2pmobile" package="com.paypal.android.p2pmobile" name="paypal" />
     <icon drawable="@drawable/ic_com_ticktick_task" package="com.ticktick.task" name="ticktick" />
     <icon drawable="@drawable/ic_com_urbandroid_sleep" package="com.urbandroid.sleep" name="Sleep as Android" />
+    <icon drawable="@drawable/ic_com_urbandroid_sleep" package="sleeptrakcer.sleeprecorder.sleepapp.sleep" />
     <icon drawable="@drawable/ic_me_hyliu_fluent_reader_lite" package="me.hyliu.fluent_reader_lite" name="Fluent Reader Lite" />
     <icon drawable="@drawable/ic_com_sec_android_app_clockpackage" package="com.sec.android.app.clockpackage" name="时钟  "/>
     <icon drawable="@drawable/ic_com_sec_android_app_clockpackage" package="com.motorola.cn.deskclock" name="时钟  "/>
@@ -801,7 +806,7 @@
     <icon drawable="@drawable/ic_com_samsung_android_app_reminder" package="com.samsung.android.app.reminder" name="提醒"/>
     <icon drawable="@drawable/ic_com_sec_android_daemonapp" package="com.sec.android.daemonapp" name="天气 "/>
     <icon drawable="@drawable/ic_com_samsung_knox_securefolder" package="com.samsung.knox.securefolder" name="安全文件夹"/>
-    <icon drawable="@drawable/com_samsung_android_ruler" package="com.samsung.android.ruler" name="快速测量"/>
+    <icon drawable="@drawable/ic_com_samsung_android_ruler" package="com.samsung.android.ruler" name="快速测量"/>
     <icon drawable="@drawable/com_samsung_android_voc" package="com.samsung.android.voc" name="盖乐世社区"/>
     <icon drawable="@drawable/ic_com_samsung_android_goodlock" package="com.samsung.android.goodlock" name="goodlock"/>
     <icon drawable="@drawable/ic_ir_ilmili_telegraph" package="ir.ilmili.telegraph" name="telegraph "/>
@@ -930,6 +935,9 @@
     <icon drawable="@drawable/ic_com_bilibili_app_blue" package="com.bilibili.app.blue" name="哔哩哔哩概念"/>
     <icon drawable="@drawable/ic_com_gotokeep_keep" package="com.gotokeep.keep" name="keep运动"/>
     <icon drawable="@drawable/ic_com_ucmobile" package="com.UCMobile" name="UC浏览器"/>
+    <icon drawable="@drawable/ic_com_ucmobile" package="com.UCMobile.intl" name="UC浏览器"/>
+    <icon drawable="@drawable/ic_com_ucmobile" package="com.ucturbo" name="UC浏览器"/>
+    <icon drawable="@drawable/ic_com_ucmobile" package="com.uc.browser.en" name="UC浏览器"/>
     <icon drawable="@drawable/tieba" package="com.baidu.tieba_mini" name="百度贴吧极速版"/>
     <icon drawable="@drawable/ic_com_heytap_headset" package="com.heytap.headset" name="欢律"/>
     <icon drawable="@drawable/xigua" package="com.ss.android.article.video.phone" name="西瓜视频play版"/>
@@ -993,23 +1001,23 @@
     <icon drawable="@drawable/ic_rikka_safetynetchecker" package="rikka.safetynetchecker" name="YASNAC"/>
     <icon drawable="@drawable/cayt" package="io.zhuliang.pipphotos" name="果仁相册"/>
     <icon drawable="@drawable/cayt" package="com.sfacg" name="菠萝包轻小说"/>
-    <icon drawable="@drawable/cayt" package="com.tencent.gamereva" name="腾讯先锋"/>
+    <icon drawable="@drawable/ic_com_tencent_gamereva" package="com.tencent.gamereva" name="腾讯先锋"/>
     <icon drawable="@drawable/cayt" package="com.huacheng.baiyunuser" name="平安回家"/>
     <icon drawable="@drawable/cayt" package="tc.everphoto" name="时光相册"/>
     <icon drawable="@drawable/cayt" package="com.pmm.remember" name="记得倒数日"/>
     <icon drawable="@drawable/cayt" package="com.zjns.app" name="V影视"/>
     <icon drawable="@drawable/cayt" package="com.dmzjsq.manhua" name="动漫之家社区"/>
-    <icon drawable="@drawable/cayt" package="com.hoperun.intelligenceportal" name="我的南京"/>
+    <icon drawable="@drawable/ic_com_hoperun_intelligenceportal" package="com.hoperun.intelligenceportal" name="我的南京"/>
     <icon drawable="@drawable/cayt" package="com.hxyd.njgjj" name="南京公积金"/>
     <icon drawable="@drawable/cayt" package="com.wsw.cospa" name="异次元"/>
     <icon drawable="@drawable/cayt" package="app.zenly.locator" name="Zenly"/>
     <icon drawable="@drawable/cayt" package="app.zenly.locator.dragon" name="Zenly"/>
     <icon drawable="@drawable/cayt" package="com.netease.hearthstone" name="炉石传说盒子"/>
-    <icon drawable="@drawable/cayt" package="com.qihoo.contents" name="360极速浏览器"/>
+    <icon drawable="@drawable/ic_com_qihoo_contents" package="com.qihoo.contents" name="360极速浏览器"/>
     <icon drawable="@drawable/cayt" package="com.datong.dict" name="大同词典"/>
     <icon drawable="@drawable/cayt" package="com.wei.count" name="账号本子"/>
     <icon drawable="@drawable/cayt" package="com.ruijie.wifim" name="WiFi魔盒"/>
-    <icon drawable="@drawable/cayt" package="cn.tianya.light" name="天涯社区"/>
+    <icon drawable="@drawable/ic_cn_tianya_light" package="cn.tianya.light" name="天涯社区"/>
     <icon drawable="@drawable/cayt" package="com.aaron.yespdf" name="YES PDF"/>
     <icon drawable="@drawable/cayt" package="com.liuzh.deviceinfo" name="设备信息"/>
     <icon drawable="@drawable/cayt" package="com.nbaimd.gametime.nba2011" name="NBA"/>
@@ -1048,7 +1056,7 @@
     <icon drawable="@drawable/cayt" package="com.sin3hz.android.mbooru" name="Mbooru"/>
     <icon drawable="@drawable/cayt" package="air.com.adobe.pstouchphone" name="PS"/>
     <icon drawable="@drawable/cayt" package="com.cjtec.pdfreader" name="PDF全能王"/>
-    <icon drawable="@drawable/cayt" package="com.pikcloud.pikpak" name="PikPak"/>
+    <icon drawable="@drawable/pikpak" package="com.pikcloud.pikpak" name="PikPak"/>
     <icon drawable="@drawable/cayt" package="com.tencent.podoteng" name="PODO漫画"/>
     <icon drawable="@drawable/cayt" package="ceui.lisa.pixiv" name="Shaft"/>
     <icon drawable="@drawable/cayt" package="com.onemt.and.shoujokaisen" name="少女廻戦"/>
@@ -1089,8 +1097,8 @@
     <icon drawable="@drawable/cayt" package="com.adobe.scan.android" name="Adobe Scan"/>
     <icon drawable="@drawable/cayt" package="com.pxjy.app.teacher" name="朴新教育教师版"/>
     <icon drawable="@drawable/cayt" package="com.dv.get" name="DVget"/>
-    <icon drawable="@drawable/cayt" package="com.tencent.docs" name="腾讯文档"/>
-    <icon drawable="@drawable/cayt" package="cn.zherui.kuaigun.idea" name="快滚加速器（apk下载：https://www.kuaigun.com/）"/>
+    <icon drawable="@drawable/ic_com_tencent_docs" package="com.tencent.docs" name="腾讯文档"/>
+    <icon drawable="@drawable/cayt" package="cn.zherui.kuaigun.idea" name="快滚加速器"/>
     <icon drawable="@drawable/cayt" package="kylec.me.lightbookkeeping" name="一羽记账"/>
     <icon drawable="@drawable/cayt" package="androidnews.kiloproject" name="MERE 新闻"/>
     <icon drawable="@drawable/cayt" package="com.playit.videoplayer" name="playit"/>
@@ -1113,7 +1121,7 @@
     <icon drawable="@drawable/cayt" package="cn.futu.trader" name="富途牛牛"/>
     <icon drawable="@drawable/cayt" package="com.beiteqihuo.mhdxh" name="倍特智投"/>
     <icon drawable="@drawable/cayt" package="com.ext.star.wars" name="大圣净化"/>
-    <icon drawable="@drawable/cayt" package="cn.com.gzbank.mbank" name="广银信用卡"/>
+    <icon drawable="@drawable/ic_cn_com_gzbank_mbank" package="cn.com.gzbank.mbank" name="广银信用卡"/>
     <icon drawable="@drawable/cayt" package="com.catchingnow.np" name="通知滤盒"/>
     <icon drawable="@drawable/cayt" package="com.ruilongqihuo.mhdxh" name="先锋期货"/>
     <icon drawable="@drawable/cayt" package="com.microsoft.mtutorclientandroidspokenenglish" name="微软小英口语大师"/>
@@ -1146,7 +1154,8 @@
     <icon drawable="@drawable/cayt" package="com.meitu.meiyancamera" name="美颜相机"/>
     <icon drawable="@drawable/cayt" package="com.growing.topwidgets" name="万能小组件"/>
     <icon drawable="@drawable/ic_com_xiaomi_router" package="com.xiaomi.router" name="小米WiFi"/>
-    <icon drawable="@drawable/cayt" package="com.sgcc.evs.echarge" name="e充电"/>
+    <icon drawable="@drawable/charge" package="com.sgcc.evs.echarge" name="e充电"/>
+    <icon drawable="@drawable/charge" package="cn.charge" name="e充站"/>
     <icon drawable="@drawable/ic_com_zui_zhealthy" package="com.zui.zhealthy" name="U健康"/>
     <icon drawable="@drawable/cayt" package="com.wuba.zhuanzhuan" name="转转"/>
     <icon drawable="@drawable/cayt" package="com.xiaote" name="小特"/>
@@ -1172,7 +1181,7 @@
     <icon drawable="@drawable/cayt" package="com.netease.uurouter" name="UU主机加速"/>
     <icon drawable="@drawable/ic_com_miui_notes" package="com.miui.notes" name="小米笔记"/>
     <icon drawable="@drawable/cayt" package="io.github.forkmaintainers.iceraven" name="Iceraven"/>
-    <icon drawable="@drawable/cayt" package="cn.gov.pbc.dcep" name="数字人民币"/>
+    <icon drawable="@drawable/ic_cn_gov_pbc_dcep" package="cn.gov.pbc.dcep" name="数字人民币"/>
     <icon drawable="@drawable/cayt" package="com.aurora.store.nightly" name="Aurora Store"/>
     <icon drawable="@drawable/cayt" package="com.kuaishou.nebula" name="快手极速版"/>
     <icon drawable="@drawable/cayt" package="com.bilibili.azurlane" name="碧蓝航线"/>
@@ -1188,7 +1197,7 @@
     <icon drawable="@drawable/cayt" package="com.BigTrue.Orzmic" name="Orzmic"/>
     <icon drawable="@drawable/cayt" package="me.mugzone.malody" name="Malody"/>
     <icon drawable="@drawable/cayt" package="com.PigeonGames.Phigros" name="Phigros"/>
-    <icon drawable="@drawable/cayt" package="com.sankuai.movie" name="猫眼"/>
+    <icon drawable="@drawable/ic_com_sankuai_movie" package="com.sankuai.movie" name="猫眼"/>
     <icon drawable="@drawable/cayt" package="com.liming.batteryinfo" name="电箱"/>
     <icon drawable="@drawable/cayt" package="com.quesera.kalpa" name="KALPA"/>
     <icon drawable="@drawable/cayt" package="moe.low.arc" name="Arcaea"/>
@@ -1202,7 +1211,7 @@
     <icon drawable="@drawable/calculator" package="advanced.scientific.calculator.calc991.plus" name="calces"/>
     <icon drawable="@drawable/cayt" package="com.dimowner.audiorecorder" name="audio recorder"/>
     <icon drawable="@drawable/cayt" package="com.abdula.pranabreath" name="普拉纳呼吸"/>
-    <icon drawable="@drawable/cayt" package="com.taobao.movie.android" name="淘票票"/>
+    <icon drawable="@drawable/ic_com_taobao_movie_android" package="com.taobao.movie.android" name="淘票票"/>
     <icon drawable="@drawable/cayt" package="com.mobisystems.office" name="officesuite"/>
     <icon drawable="@drawable/cayt" package="com.anod.appwatcher" name="app watcher"/>
     <icon drawable="@drawable/cayt" package="de.apkgrabber" name="apkgrabber"/>
@@ -1352,4 +1361,17 @@
     <icon drawable="@drawable/cayt" package="com.lianjia.beike" name="贝壳找房"/>
     <icon drawable="@drawable/cayt" package="com.pagerduty.android" name="PagerDuty"/>
     <icon drawable="@drawable/twitter" package="com.twitterpro.apps" name="Twitter Pro"/>
+    <icon drawable="@drawable/ic_com_ftehxcctijixtws_sport" package="com.ftehxcctjixtws.sport"/>
+    <icon drawable="@drawable/ic_com_gf_client" package="com.gf.client"/>
+    <icon drawable="@drawable/ic_com_xtc_watch" package="com.xtc.watch"/>
+    <icon drawable="@drawable/ic_com_xtc_watch" package="com.okii.watch.global"/>
+    <icon drawable="@drawable/ic_com_byd_aeri_caranywhere" package="com.byd.aeri.caranywhere"/>
+    <icon drawable="@drawable/ic_com_sika524_android_quickshortcut" package="com.sika524.android.quickshortcut"/>
+    <icon drawable="@drawable/ic_com_adnonstop_mancameramini" package="com.adnonstop.mancameramini"/>
+    <icon drawable="@drawable/wifiyaoshi" package="com.snda.lantern.wifilocating"/>
+    <icon drawable="@drawable/ic_com_adnonstop_mancameramini" package="com.adnonstop.mancamera2017"/>
+    <icon drawable="@drawable/wifiyaoshi" package="com.snda.wifilocating"/>
+    <icon drawable="@drawable/ic_one_yufz_hmspush" package="one.yufz.hmspush"/>
+    <icon drawable="@drawable/cayt" package="com.xeasy.noticefix"/>
+    <icon drawable="@drawable/qqread" package="com.qq.reader"/>
 </icons>
